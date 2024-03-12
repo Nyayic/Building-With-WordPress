@@ -3,6 +3,7 @@ title: "Beginner's Guide to Understanding the WordPress Dashboard"
 datePublished: Tue Mar 12 2024 18:12:00 GMT+0000 (Coordinated Universal Time)
 cuid: cltoovvr8000h09jv98k747xo
 slug: beginners-guide-to-understanding-the-wordpress-dashboard
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1710267454811/211dc099-fb5f-464b-a1d7-873899e33f07.png
 tags: wordpress, wordpress-for-beginners, wordpress-tutorial
 
 ---
