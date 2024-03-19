@@ -12,7 +12,7 @@ Installing WordPress via XAMPP is a great way to set up a local development envi
 
 ## **Step 1: Download XAMPP**
 
-Go to the Apache Friends website and download the latest version of XAMPP for your operating system (Windows, macOS, or Linux).
+Go to the [Apache Friends website](https://www.apachefriends.org/) and download the latest version of XAMPP for your operating system (Windows, macOS, or Linux).
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710728534463/8c9ea65c-aa74-4f66-8f45-085131bba362.png align="center")
 
@@ -52,7 +52,7 @@ Click on the "Databases" tab and create a new database. Give it a name, e.g.,`my
 
 Open your web browser and go to http://localhost/mysite (or whatever folder you extracted WordPress into).
 
-Choose a Language of your choice and click "Continue".
+Choose a language of your choice and click "Continue."
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710731051249/62a9d87c-e50b-4000-8ca1-30eafca7bcd7.png align="center")
 
@@ -82,7 +82,7 @@ WordPress will prompt you to create a `wp-config.php` file. Click on the "Let's 
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710731784716/7e6be9cb-e8aa-47dc-9d72-c3edfeacc735.png align="center")
     
-4. Fill in the required information for your WordPress site, such as Site Title, Username, Password, and Email Address.
+4. Fill in the required information for your WordPress site, such as the site title, username, password, and email address.
     
 5. Click on the "Install WordPress" button.
     
