@@ -18,7 +18,6 @@ WordPress holds the dominant share of the Content Management System (CMS) market
 
 * **Easy to Use:** WordPress boasts a beginner-friendly interface that doesn't require coding knowledge.
     
-
 * **Flexibility:** From simple blogs to complex business websites, WordPress adapts to your needs with a vast library of themes and plugins.
     
 * **Open Source:** Being free and open-source software, WordPress offers endless customization options and a supportive community.
@@ -42,7 +41,9 @@ Many hosting providers offer bundled domain registration and hosting packages, s
 
 ### **Installing WordPress**
 
-Once you have your domain name and hosting set up, the next step is to install WordPress. Most hosting providers offer a one-click WordPress installation process. Below is an example of installation through cpanel via Softaculous.
+Once you have your domain name and hosting set up, the next step is to install WordPress.
+
+Most hosting providers offer a one-click WordPress installation process. Below is an example of installation through the cpanel via Softaculous.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710151888949/0c2368f9-8a1f-4b5e-9527-958aecaa4fa8.png align="center")
 
@@ -71,11 +72,15 @@ Spend some time exploring the dashboard and familiarizing yourself with the layo
 
 ### **Choosing a Theme**
 
-Think of your WordPress theme as your website's outfit. Themes control the visual design of your website, including layout, fonts, and color schemes. WordPress offers a vast library of free and premium themes catering to various styles and functionalities.
+Think of your WordPress theme as your website's outfit. Themes control the visual design of your website, including layout, fonts, and color schemes.
+
+WordPress offers a vast library of free and premium themes catering to various styles and functionalities.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710152152524/508983e3-c6d3-49b8-bf4c-1fea96ad606a.png align="center")
 
-* **Start with a Free Theme:** Numerous high-quality free themes are available in the official WordPress theme directory. Search for a theme that aligns with your website's purpose and experiment to find the perfect fit.
+* **Start with a Free Theme:** Numerous high-quality free themes are available in the official WordPress theme directory.
+    
+    Search for a theme that aligns with your website's purpose and experiment to find the perfect fit.
     
 * **Consider Upgrading to a Premium Theme:** Premium themes often offer more customization options, advanced features, and dedicated support. However, free themes are a great starting point, and you can always upgrade later.
     
@@ -116,7 +121,7 @@ Plugins are like apps for your website, adding specific features and functionali
 
 Menus play a crucial role in website navigation, allowing visitors to find the content they're looking for.
 
-* **Creating Menus:** In your WordPress dashboard, navigate to "Appearance" -&gt; "Menus". Give your menu a name and add the pages or posts you want visitors to access.
+* **Creating Menus:** In your WordPress dashboard, navigate to *"Appearance"* -&gt; *"Menus"*. Give your menu a name and add the pages or posts you want visitors to access.
     
 * **Assigning Menus to Locations:** WordPress allows you to assign menus to different locations on your website, such as the header or sidebar. This creates a clear navigation structure for your visitors.
     
@@ -127,7 +132,7 @@ Once you're happy with your website's content and design, it's time to make it v
 
 * **Setting Visibility:** When creating a post or page, you have the option to set its visibility. The "Publish" option makes your content live on your website, while "Draft" allows you to save and edit before publishing.
     
-* **Sharing Your Website:** Promote your website on social media platforms, online communities, and relevant directories. There are also plugins to help you share your content easily across social media channels.
+* **Sharing Your Website:** Promote your website on social media platforms, online communities, and relevant directories. There are also a number of plugins to help you share your content easily across social media channels.
     
 
 ### **Learning and Exploring More with WordPress**
