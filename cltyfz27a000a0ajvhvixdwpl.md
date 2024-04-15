@@ -50,13 +50,11 @@ Click on the "Databases" tab and create a new database. Give it a name, e.g.,`my
 
 ## **Step 5: Configure WordPress**
 
-Open your web browser and go to http://localhost/mysite (or whatever folder you extracted WordPress into).
-
-Choose a language of your choice and click "Continue."
+Open your web browser and go to http://localhost/mysite (or whatever folder you extracted WordPress into). Choose a language of your choice and click ***"Continue."***
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710731051249/62a9d87c-e50b-4000-8ca1-30eafca7bcd7.png align="center")
 
-WordPress will prompt you to create a `wp-config.php` file. Click on the "Let's go" button.
+WordPress will prompt you to create a `wp-config.php` file. Click on the ***"Let's go"*** button.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710731209636/0e615a97-c2d3-4f24-b04d-4ff24841b2a9.png align="center")
 
@@ -88,7 +86,7 @@ WordPress will prompt you to create a `wp-config.php` file. Click on the "Let's 
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710731833088/b5abcfb4-cada-467b-844a-88df54c7ee1a.png align="center")
     
-6. Once the installation is complete, you can log in to your WordPress dashboard using the credentials you provided.
+6. Once the installation is complete, you can log in to your WordPress Dashboard using the credentials you provided.
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710731904507/d8b57891-7b13-4b5d-bbee-53709d2410fd.png align="center")
     
@@ -100,3 +98,5 @@ Go to [http://localhost/mysite/wp-admin/](http://localhost/wordpress/wp-admin/) 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710732025386/c0711dd0-9963-4bdf-94c0-8416d366f061.png align="center")
 
 Congratulations! You have successfully installed WordPress via XAMPP on your computer. Now you can start building and testing your website locally.
+
+***Happy Building!***
