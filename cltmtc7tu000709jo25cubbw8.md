@@ -27,7 +27,7 @@ WordPress holds the dominant share of the Content Management System (CMS) market
 
 ### **Choosing Your Domain Name and Hosting**
 
-Before diving into WordPress itself, you'll need two crucial elements: a domain name and website hosting.
+Before delving into WordPress itself, you'll need two crucial elements: a domain name and website hosting.
 
 * **Domain Name:** This is your website's address on the internet, for instance, "[https://fannyn.com/](https://fannyn.com/)". Choose a memorable name, that reflects your brand, and ideally includes relevant keywords. You can purchase a domain name from sites like [Namecheap](http://namecheap.pxf.io/Ao9N2j), Godaddy, [Bluehost](http://bluehost.sjv.io/P07bjY), etc.
     
@@ -41,7 +41,7 @@ Many hosting providers offer bundled domain registration and hosting packages, s
 
 ### **Installing WordPress**
 
-Once you have your domain name and hosting set up, the next step is to install WordPress.
+Once you have your domain name and hosting all set up, the next step is to install WordPress.
 
 Most hosting providers offer a one-click WordPress installation process. Below is an example of installation through the cpanel via Softaculous.
 
@@ -74,7 +74,7 @@ Spend some time exploring the dashboard and familiarizing yourself with the layo
 
 Think of your WordPress theme as your website's outfit. Themes control the visual design of your website, including layout, fonts, and color schemes.
 
-WordPress offers a vast library of free and premium themes catering to various styles and functionalities.
+WordPress offers a vast library of free, and premium themes catering to various styles and functionalities.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710152152524/508983e3-c6d3-49b8-bf4c-1fea96ad606a.png align="center")
 
@@ -103,7 +103,9 @@ You can create content by clicking on "Posts" or "Pages" in the WordPress dashbo
 
 ### **Adding Functionality with Plugins**
 
-Plugins are like apps for your website, adding specific features and functionalities. For instance, you can install plugins for contact forms, image galleries, social media sharing buttons, and much more.
+Plugins are like apps for your website, adding specific features and functionalities.
+
+For instance, you can install plugins for contact forms, image galleries, social media sharing buttons, and much more.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710152692113/af248a80-41b5-4e60-897a-891b5711fe4c.png align="center")
 
@@ -130,9 +132,9 @@ Menus play a crucial role in website navigation, allowing visitors to find the c
 
 Once you're happy with your website's content and design, it's time to make it visible to the world!
 
-* **Setting Visibility:** When creating a post or page, you have the option to set its visibility. The "Publish" option makes your content live on your website, while "Draft" allows you to save and edit before publishing.
+* **Setting Visibility:** When creating a post or page, you have the option to set its visibility. The *"Publish"* option makes your content live on your website, while *"Draft"* allows you to save and edit before publishing.
     
-* **Sharing Your Website:** Promote your website on social media platforms, online communities, and relevant directories. There are also a number of plugins to help you share your content easily across social media channels.
+* **Sharing Your Website:** Promote your website on social media platforms, online communities, and relevant directories. There are also several plugins to help you share your content easily across social media channels.
     
 
 ### **Learning and Exploring More with WordPress**
@@ -152,3 +154,5 @@ The beauty of WordPress lies in its endless customization possibilities. Here ar
 Congratulations! You've successfully launched your WordPress website. Remember, creating a website is an ongoing process.
 
 Keep learning, experiment with new features, and update your content regularly to keep your website engaging and informative.
+
+***Happy Building!***
