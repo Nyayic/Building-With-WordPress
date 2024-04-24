@@ -57,4 +57,6 @@ You can typically access it by going to [`http://yourwebsitename.com/wp-admin`](
 * **Call to Action:** Tell your readers what you want them to do next. This could be subscribing to your email list, commenting on your post, or sharing it on social media.
     
 
-With these steps and a dash of creativity, you'll be well on your way to crafting your first stellar WordPress blog post. Remember, consistency is key to building a successful blog. Keep writing, keep learning, and most importantly, have fun with it!
+With these steps and a dash of creativity, you'll be well on your way to crafting your first stellar WordPress blog post. Remember, consistency is key to building a successful blog.
+
+*Keep writing, keep learning, and most importantly, have fun with it!*
