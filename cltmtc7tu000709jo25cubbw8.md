@@ -68,7 +68,9 @@ Here's a quick breakdown of some key sections:
 * **Plugins:** Plugins extend the functionality of your website, adding features like contact forms or image galleries.
     
 
-Spend some time exploring the dashboard and familiarizing yourself with the layout. Many helpful resources and tutorials are available online to guide you through each section.
+Spend some time exploring the dashboard and familiarizing yourself with the layout.
+
+Many helpful resources and tutorials are available online to guide you through each section.
 
 ### **Choosing a Theme**
 
