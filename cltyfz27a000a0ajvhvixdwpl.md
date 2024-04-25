@@ -97,6 +97,8 @@ Go to [http://localhost/mysite/wp-admin/](http://localhost/wordpress/wp-admin/) 
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710732025386/c0711dd0-9963-4bdf-94c0-8416d366f061.png align="center")
 
-Congratulations! You have successfully installed WordPress via XAMPP on your computer. Now you can start building and testing your website locally.
+Congratulations! You have successfully installed WordPress via XAMPP on your computer.
+
+Now you can start building and testing your website locally.
 
 ***Happy Building!***
