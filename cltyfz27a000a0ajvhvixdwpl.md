@@ -16,7 +16,9 @@ Go to the [Apache Friends website](https://www.apachefriends.org/) and download 
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710728534463/8c9ea65c-aa74-4f66-8f45-085131bba362.png align="center")
 
-Follow the installation instructions provided by XAMPP to install it on your computer. Make sure to remember the installation directory, as you'll need it later. The Default directory is normally `c:/xampp`
+Follow the installation instructions provided by XAMPP to install it on your computer.
+
+Make sure to remember the installation directory, as you'll need it later. The Default directory is normally `c:/xampp`
 
 ## **Step 2: Start XAMPP and Start Apache and MySQL**
 
