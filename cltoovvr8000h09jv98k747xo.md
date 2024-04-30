@@ -35,7 +35,9 @@ Upon successful login, you'll be greeted by the WordPress Dashboard – your cen
 
 **Sidebar**
 
-This vertical menu on the left-hand side serves as the primary navigation panel. It provides access to all the crucial sections for managing your website's content, design, functionality, and settings.
+This vertical menu on the left-hand side serves as the primary navigation panel.
+
+It provides access to all the crucial sections for managing your website's content, design, functionality, and settings.
 
 **Toolbar**
 
@@ -53,7 +55,9 @@ Let's dive deeper into some of the core sections:
 
 ### **Posts**
 
-The "posts" section is the heart of your website's dynamic content. It's where you create blog entries, news articles, or any content that is regularly updated. You can add text, images, videos, and other multimedia elements to enrich your posts.
+The "posts" section is the heart of your website's dynamic content. It's where you create blog entries, news articles, or any content that is regularly updated.
+
+You can add text, images, videos, and other multimedia elements to enrich your posts.
 
 **Adding a New Post:**
 
